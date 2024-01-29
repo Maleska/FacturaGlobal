@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FacturaGlobal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://172.16.61.28:50001/b1s/v1/</Value>
+    </Setting>
+    <Setting Name="CompanyDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEST_DERMA</Value>
+    </Setting>
+    <Setting Name="UserSAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">manager</Value>
+    </Setting>
+    <Setting Name="PassSAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B1AdminH2</Value>
+    </Setting>
+    <Setting Name="Frecuencia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="HanaConection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=172.16.61.28:30013;UserID=SYSTEM;Password=B1AdminH2;Database=NDB</Value>
+    </Setting>
+    <Setting Name="UN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D</Value>
+    </Setting>
+    <Setting Name="CardCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">101476</Value>
+    </Setting>
+    <Setting Name="ItemCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VENTA</Value>
+    </Setting>
+    <Setting Name="Rfc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XAXX010101000</Value>
+    </Setting>
+    <Setting Name="Serie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">75</Value>
+    </Setting>
+    <Setting Name="UsoCFDI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S01</Value>
+    </Setting>
+    <Setting Name="MetodoPago" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PUE</Value>
+    </Setting>
+    <Setting Name="Periodicidad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">02</Value>
+    </Setting>
+    <Setting Name="Efectivo" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;01-EF-A&lt;/string&gt;
+  &lt;string&gt;01-EF-C&lt;/string&gt;
+  &lt;string&gt;01-EF-D&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="TC" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;04-TC-A&lt;/string&gt;
+  &lt;string&gt;04-TC-C&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="TD" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;28-TD-A&lt;/string&gt;
+  &lt;string&gt;28-TD-C&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Transferencia" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;03-C&lt;/string&gt;
+  &lt;string&gt;03-KK-A&lt;/string&gt;
+  &lt;string&gt;03-KK-D&lt;/string&gt;
+  &lt;string&gt;03-MP-A&lt;/string&gt;
+  &lt;string&gt;03-MP-D&lt;/string&gt;
+  &lt;string&gt;03-OP-A&lt;/string&gt;
+  &lt;string&gt;03-OP-D&lt;/string&gt;
+  &lt;string&gt;03-PP-A&lt;/string&gt;
+  &lt;string&gt;03-PP-D&lt;/string&gt;
+  &lt;string&gt;03-TR-A&lt;/string&gt;
+  &lt;string&gt;03-TR-C&lt;/string&gt;
+  &lt;string&gt;03-TR-D&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SerieE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SerieC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SerieD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="PeyMethodA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">uno</Value>
+    </Setting>
+    <Setting Name="PeyMethodD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dos</Value>
+    </Setting>
+    <Setting Name="PeyMethodC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tres</Value>
+    </Setting>
+    <Setting Name="GroupNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GroupNum</Value>
+    </Setting>
+    <Setting Name="PublicoGeneral" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;PG001&lt;/string&gt;
+  &lt;string&gt;PG002&lt;/string&gt;
+  &lt;string&gt;PG003&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
