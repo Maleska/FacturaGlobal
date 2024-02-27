@@ -868,7 +868,6 @@ namespace FacturaGlobal.Components.DL
             }
             return ItemDscription;
         }
-
         public static void Log(string error)
         {
             try
